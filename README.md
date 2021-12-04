@@ -56,7 +56,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```
 
-O aplicativo estará para acesso em seu navegador em: `http://localhost:3000`
 
 ## 📄 Licença
 
